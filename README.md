@@ -1,1 +1,3 @@
-# About-Me
+# Hello there,
+
+I am Destiny - a highly skilled back-end developer with a talent for using Python to create top-of-the-line projects. I have extensive experience in working with advanced tools like Django and Pandas and thrive on developing dynamic websites and executing complex data analysis tasks. I'm an eager learner and always stay ahead of the game by expanding my skillset with the latest technologies. As of now, I'm focusing on enhancing my full-stack development abilities by mastering the art of Vue.js for front-end development. With my passion for technology and attention to detail, I'm excited to explore new ways of presenting and visualizing data, and take your projects to new heights.
